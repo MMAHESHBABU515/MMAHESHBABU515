@@ -1,6 +1,6 @@
 
 <!--
-**MMAHESHBABU515/MMAHESHBABU515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MMAHESHBABU515/MMAHESHBABU515** is a ✨ _special_ ✨ repository because its `README.md`.
 ### Welcome to My GitHub Profile! 👋  
 ## Hi there 👋
  I'm **M Mahesh Babu**, a passionate programmer and engineer with expertise in **C & Data Structures**, **C++**, **Embedded-C**, and **Matlab-Simulink**. 
