@@ -13,18 +13,7 @@
 <a href="https://github.com/MMAHESHBABU515"><img src="https://komarev.com/ghpvc/?username=MMAHESHBABU515E&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"></a>
 </p>
 
----
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMAHESHBABU515&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMAHESHBABU515&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 ### 🛠 Skills & Tools
 
