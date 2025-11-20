@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Embedded Systems Engineer from Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation" />
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300" alt="coding animation" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
   <br/>
   <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
   <img src="https://img.shields.io/badge/Keil-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Keil" />
-  <img src="https://img.shields.io/badge/Protocol-CAN_UART_SPI-orange?style=for-the-badge" alt="Protocols" />
+  <img src="https://img.shields.io/badge/Protocol-CAN_UART_SPI-orange?style=for-the-badge" alt=" Communication Protocols" />
   <img src="https://img.shields.io/badge/RTOS-blue?style=for-the-badge" alt="RTOS" />
 </div>
 
@@ -63,6 +63,6 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Reverse Car Parking Assistance** | C, ARM7, CAN, Ultrasonic | [cite_start]Designed a system using LPC2129 to detect obstacles and alert drivers via buzzer sounds[cite: 31, 34]. |
-| **Solar PV Power Quality** | MATLAB, Simulink | [cite_start]Improved power quality in Solar PV systems using Shunt Active Power Filter and FS-MPC method[cite: 35, 37]. |
-| **Smart Glasses for Disabled** | IoT, Lidar, Python | [cite_start]*Role: Debugger.* Wearable glasses converting visual details to audio for the visually impaired[cite: 41, 42]. |
+| **Reverse Car Parking Assistance** | C, ARM7, CAN, Ultrasonic | Designed a system using LPC2129 to detect obstacles and alert drivers via buzzer sounds. |
+| **Solar PV Power Quality** | MATLAB, Simulink | Improved power quality in Solar PV systems using Shunt Active Power Filter and FS-MPC method. |
+| **Smart Glasses for Disabled** | IoT, Lidar, Python |*Role: Debugger.* Wearable glasses converting visual details to audio for the visually impaired |
