@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MMAHESHBABU515</h1>
+<h1 align="center">Hi 👋, I'm  MAHESH BABU</h1>
 <h3 align="center">🚀 Embedded Systems Engineer from Bengaluru, India</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  [cite_start]I am a B.Tech graduate specialized in <b>Advanced Embedded Systems</b>[cite: 8, 17]. [cite_start]I am passionate about building hardware-software interfaces using <b>LPC2129, ARM7, and CAN Protocols</b>[cite: 27, 28].
+  [cite_start]I am a B.Tech graduate specialized in <b>Advanced Embedded Systems</b>. I am passionate about building hardware-software interfaces using <b>LPC2129, ARM7, and CAN Protocols</b>.
 </p>
 
 <p align="center">
