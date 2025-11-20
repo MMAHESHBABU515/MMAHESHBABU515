@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  [cite_start]I am a B.Tech graduate specialized in <b>Advanced Embedded Systems</b>. I am passionate about building hardware-software interfaces using <b>LPC2129, ARM7, and CAN Protocols</b>.
+ I am a B.Tech graduate specialized in <b>Advanced Embedded Systems</b>. I am passionate about building hardware-software interfaces using <b>LPC2129, ARM7, and CAN Protocols</b>.
 </p>
 
 <p align="center">
