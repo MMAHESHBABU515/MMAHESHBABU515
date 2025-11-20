@@ -1,0 +1,86 @@
+# Hi there, I'm Mondela Mahesh Babu! 👋
+
+### 🚀 Embedded Systems Engineer | EEE Graduate
+*Bengaluru, Karnataka, India*
+
+[cite_start]I am a B.Tech graduate in Electrical and Electronics Engineering seeking a position in a dynamic organization[cite: 6, 8]. [cite_start]I have specialized training in **Advanced Embedded Systems** and a passion for building hardware-software interfaces that drive organizational success[cite: 6, 17].
+
+---
+
+## 📊 Technical Skills
+
+[cite_start]Here is a breakdown of my core technical competencies based on my training at Vector India and academic projects.
+
+**Programming Languages**
+`C / Embedded C`  
+████████████████████ (90%)
+`Python`          
+██████████░░░░░░░░░░ (50%)
+`C++`             
+████████████░░░░░░░░ (60%)
+
+**Microcontrollers & Architecture**
+`ARM7 (LPC2129)`  
+██████████████████░░ (85%)
+`Microcontroller Peripherals`
+████████████████░░░░ (80%)
+
+**Communication Protocols**
+`UART / I2C / SPI`
+██████████████████░░ (85%)
+`CAN Protocol`    
+████████████████░░░░ (80%)
+`TCP-IP`          
+████████████░░░░░░░░ (60%)
+
+**Tools & OS**
+`Keil / Flash Magic`
+████████████████████ (90%)
+`Linux System Programming`
+██████████████░░░░░░ (70%)
+`RTOS`            
+██████████████░░░░░░ (70%)
+
+---
+
+## 🛠 Key Projects
+
+### 🚗 [Reverse Car Parking Assistance System](Link_to_repo_if_available)
+*Individual Project | [cite_start]March 2025 [cite: 31, 32]*
+Designed a safety system ensuring accurate parking guidance using the **LPC2129 microcontroller**.
+- **Tech Stack:** Embedded C, ARM7, Ultrasonic Sensor, CAN Protocol.
+- **Key Feature:** Detects obstacles and alerts the driver with varied buzzer sounds based on proximity[cite: 34].
+
+### ☀️ [Power Quality Improvement of Solar PV System](Link_to_repo_if_available)
+*Team Project | [cite_start]Dec 2022 – May 2023 [cite: 36]*
+Implemented a Solar PV System with a Shunt Active Power Filter to improve power quality.
+- **Tech Stack:** MATLAB/Simulink 2018a, FS-MPC Method.
+- [cite_start]**Outcome:** Successfully evaluated system performance and mitigated harmonic distortions caused by non-linear loads[cite: 38, 39].
+
+### 👓 [AAC For Physically Disabled People](Link_to_repo_if_available)
+*Role: Debugger | 2022 [cite: 40, 41]*
+Developed voice-activated wearable smart glasses for visually and hearing-impaired users.
+- [cite_start]**Functionality:** Converts visual details into audio using facial recognition and object detection[cite: 42].
+
+---
+
+## 🎓 Education & Certifications
+
+- **Advanced Course in Embedded Systems** | [cite_start]Vector India Pvt Ltd, Bengaluru (Aug 2024 – June 2025) 
+- **B.Tech (Electrical and Electronics Engineering)** | [cite_start]Sree Vidyanikethan Engineering College (83%) [cite: 8, 13]
+- **Internship:** Solar PV Power Infrastructure Elements | [cite_start]AUPTC (3 Months) [cite: 53]
+- **Certification:** DC Microgrid and Control Systems | [cite_start]NPTEL (IIT Roorkee) [cite: 52]
+
+---
+
+## ⚡ Soft Skills
+- [cite_start]**Problem Solving:** Proven through multiple academic and hackathon projects[cite: 48, 57].
+- [cite_start]**Self-Motivated:** Dedicated to continuous learning and professional growth[cite: 6, 55].
+- [cite_start]**Time Management:** Successfully balanced intensive training with project deadlines[cite: 56].
+
+---
+
+## 📫 Connect with Me
+
+[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-mahesh-babu-699698196) [cite: 3]
+[cite_start][![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mondelamaheshbabu@gmail.com) [cite: 4]
