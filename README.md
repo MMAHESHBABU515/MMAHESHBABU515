@@ -26,7 +26,7 @@
   <br/>
   <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
   <img src="https://img.shields.io/badge/Keil-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Keil" />
-  <img src="https://img.shields.io/badge/Protocol-CAN_UART_SPI-orange?style=for-the-badge" alt=" Communication Protocols" />
+  <img src="https://img.shields.io/badge/Networking-CAN_UART_SPI_I2C-orange?style=for-the-badge" alt="Protocols" />
   <img src="https://img.shields.io/badge/RTOS-blue?style=for-the-badge" alt="RTOS" />
 </div>
 
