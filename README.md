@@ -52,6 +52,6 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Reverse Car Parking Assistance** | C, ARM7, CAN, Ultrasonic | Designed a system using LPC2129 to detect obstacles and alert drivers via buzzer sounds. |
+| **Reverse Car Parking Assistance System** | C, ARM7, CAN, Ultrasonic | Designed a system using LPC2129 to detect obstacles and alert drivers via buzzer sounds. |
 | **Solar PV Power Quality** | MATLAB, Simulink | Improved power quality in Solar PV systems using Shunt Active Power Filter and FS-MPC method. |
-| **Smart Glasses for Disabled** | IoT, Lidar, Python |*Role: Debugger.* Wearable glasses converting visual details to audio for the visually impaired |
+| **AAC for Disabled Persons** | IoT, Lidar, Python |*Role: Debugger.* Wearable glasses converting visual details to audio for the visually impaired |
