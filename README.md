@@ -37,7 +37,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/m-mahesh-babu-699698196" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)"/>
 </a>
 
 <a href="mailto:mondelamaheshbabu@gmail.com">
